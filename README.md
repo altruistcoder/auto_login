@@ -5,7 +5,7 @@ You must have to install selenium to run this script.
 
 To install selenium run the following command from a command-line:
 
-pip install selenium
+**pip install selenium**
 
 
 Also to open firefox browser using selenium install geckodriver.
