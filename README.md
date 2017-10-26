@@ -17,7 +17,7 @@ Also to open firefox browser using selenium install geckodriver.
 
 ## Instructions
 
-1. Edit the python script by add your username.
+1. Edit the python script by adding your username.
 
 2. Run the script.
 
