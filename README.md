@@ -1,24 +1,57 @@
-# Hackerearth_Autologin
-Task: To open the firefox browser, open hackerearth and login to the account automatically using python script.
-
-# Facebook_Autologin
-Task: To open the firefox browser, open facebook and login to the account automatically using python script.
-
-## Requirements
- 
-You must have to install selenium to run this script.
-
-To install selenium run the following command from a command-line:
-
-**pip install selenium**
+# AUTO_LOGIN
 
 
-Also to open firefox browser using selenium install geckodriver.
+Auto_login is a repository which contains python scripts for performing different automated tasks.
 
-## Instructions
 
-1. Edit the python script by adding your username.
+
+### codechef_problem_autosubmit.py:
+
+Python script to automatically login to your codechef account and submit a solution to any respective problem.
+
+
+
+### gmail_autologin.py:
+
+Python script to automatically login to your gmail account.
+
+
+
+### facebook_autologin.py:
+
+Python script to automatically login to your facebook account.
+
+
+
+### hackerearth_autologin.py:
+
+Python script to automatically login to your hackerearth account.
+
+
+
+# REQUIREMENTS:
+
+
+
+1. You need selenium to run this script. Run the following command from your terminal to install selenium: 
+
+```
+
+pip install selenium
+
+```
+
+2. Also to open firefox browser using selenium install geckodriver.
+
+
+
+# INSTRUCTIONS:
+
+
+
+1. Edit the python script by adding your corresponding credentials.
+
 
 2. Run the script.
 
-3. Enter your password and you are good to go.
+3. Enter your password when asked in terminal and you are good to go.
