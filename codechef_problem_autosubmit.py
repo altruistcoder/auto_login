@@ -5,8 +5,7 @@ import getpass
 
 # Enter your codechef credentials
 
-username = "rishabhagg1997"
-
+username = ""
 password = getpass.getpass("Password: ")
 
 
