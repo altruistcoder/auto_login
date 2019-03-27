@@ -30,9 +30,7 @@ Python script to automatically login to your hackerearth account.
 1. You need selenium to run this script. Run the following command from your terminal to install selenium: 
 
 ```
-
 pip install selenium
-
 ```
 
 2. Now, if you want to run the scripts using Firefox browser, you need to have geckodriver. Similarly for Chrome browser, you will need chromedriver and so on.
